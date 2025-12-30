@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Yu 👋
 
-<!--
-**ares-coding/ares-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Software Developer & AI Engineer with a strong focus on **Machine Learning**, **Computer Vision**, and **Web Development**.  
+I enjoy building practical systems that combine data, models, and clean user interfaces.
 
-Here are some ideas to get you started:
+Currently working on projects involving **image processing**, **CNN-based models**, and **ML-driven applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Core Expertise
+- Machine Learning & Deep Learning  
+- Computer Vision & Image Processing  
+- Model Training & Evaluation (CNN, SVM, Hybrid CNN–SVM)  
+- Web-based deployment of ML systems  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- **Python**
+- **JavaScript**
+- **HTML5 / CSS3**
+- **Markdown**
+
+### Machine Learning / Computer Vision
+- **OpenCV**
+- **NumPy**
+- **Pandas**
+- **Matplotlib**
+- **Scikit-learn**
+- **TensorFlow**
+- **PyTorch**
+- **Keras**
+
+### Web & Deployment
+- **Bootstrap**
+- **Vercel**
+
+### Tools
+- **Git**
+- **GitHub**
+- **Docker**
+- **Postman**
+- **Figma**
+- **Canva**
+- **SQLite / MySQL**
+
+---
+
+## 🚀 Featured Project
+
+### 🍺 Detecting Alcohol Intoxication Using Image Processing
+A machine learning–based system that classifies facial images as **drunk** or **normal**.
+
+**Highlights:**
+- Image preprocessing and facial feature extraction using OpenCV  
+- CNN model for deep feature learning  
+- SVM classifier for decision boundaries  
+- Hybrid **CNN–SVM** approach for improved accuracy  
+- Trained and evaluated using Python in Google Colab  
+
+**Tech Used:**  
+`Python · OpenCV · CNN · SVM · Scikit-learn · TensorFlow · NumPy · Pandas`
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: your-email@example.com  
+- 📸 Instagram: your-tech-instagram (optional)
+
+---
+
+> *“Build systems that solve real problems — not just models that look good on paper.”*
+
