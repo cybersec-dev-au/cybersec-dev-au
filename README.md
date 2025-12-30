@@ -72,8 +72,7 @@ A machine learning–based system that classifies facial images as **drunk** or 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@example.com  
-- 📸 Instagram: your-tech-instagram (optional)
+- 📧 Email: auamores3@gmail.com  
 
 ---
 
