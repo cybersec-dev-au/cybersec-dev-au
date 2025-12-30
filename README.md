@@ -67,7 +67,8 @@ A machine learning–based system that classifies facial images as **drunk** or 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ares-coding&show_icons=true&theme=radical)
+
 
 ---
 
