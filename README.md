@@ -1,4 +1,4 @@
-# Hi, I'm Yu 👋
+# Hi, I'm Ares👋
 
 ## 👨‍💻 About Me
 Software Developer & AI Engineer with a strong focus on **Machine Learning**, **Computer Vision**, and **Web Development**.  
