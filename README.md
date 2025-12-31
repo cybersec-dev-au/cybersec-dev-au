@@ -21,34 +21,34 @@ Currently working on projects involving **image processing**, **CNN-based models
 
 
 ## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3A3A3A?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3A3A3A?style=flat&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-3A3A3A?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-3A3A3A?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-C9A227?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-CB4B2D?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2C5AA0?style=flat&logo=css3&logoColor=white)
 
 
 ### 🤖 Machine Learning / Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-2F2F2F?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-2F2F2F?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2F2F2F?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2F2F2F?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2F2F2F?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2F2F2F?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-2E4057?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-355C7D?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-4B2E83?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-CF8E1B?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-CF6D17?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-B44A3A?style=flat&logo=pytorch&logoColor=white)
 
 
 ### 🌐 Web & Deployment
-![Bootstrap](https://img.shields.io/badge/Bootstrap-3A3A3A?style=flat&logo=bootstrap&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-3A3A3A?style=flat&logo=vercel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-2B2B2B?style=flat&logo=vercel&logoColor=white)
+
 
 
 ### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-3A3A3A?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-3A3A3A?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-3A3A3A?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-3A3A3A?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-3A3A3A?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-3A3A3A?style=flat&logo=canva&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-B5543C?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2F2F2F?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2F6F95?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-D96C2C?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-7A3F9A?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-2FA4A9?style=flat&logo=canva&logoColor=white)
 
 
 
