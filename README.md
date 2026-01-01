@@ -5,12 +5,6 @@ I enjoy building practical systems that combine data, models, and clean user int
 Currently working on projects involving **image processing**, **CNN-based models**, and **ML-driven applications**.
 
 ---
-## 🚀 Featured Projects
-
-[![Glowing Portfolio](https://raw.githubusercontent.com/ares-coding/glowing-portfolio/main/cover.png)](https://glowing-portfolio.vercel.app)
-
-[![AI Resume Analyzer](https://raw.githubusercontent.com/ares-coding/ai-resume-analyzer/main/screenshots/dashboard.png)](https://github.com/ares-coding/ai-resume-analyzer)
-
 
 ## 🧠 Core Expertise
 - Machine Learning & Deep Learning
