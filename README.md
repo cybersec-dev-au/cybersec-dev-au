@@ -1,6 +1,4 @@
 # Hi, I'm Ares👋
-
-👨‍💻 About Me
 Software Developer & AI Engineer with a strong focus on **Machine Learning**, **Computer Vision**, and **Web Development**.  
 I enjoy building practical systems that combine data, models, and clean user interfaces.
 
