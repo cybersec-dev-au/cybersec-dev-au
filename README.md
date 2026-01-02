@@ -2,7 +2,7 @@
 Software Developer & AI Engineer with a strong focus on **Machine Learning**, **Computer Vision**, and **Web Development**.  
 I enjoy building practical systems that combine data, models, and clean user interfaces.
 
-Currently working on projects involving **image processing**, **CNN-based models**, and **ML-driven applications**.
+Currently working on projects involving image processing, CNN-based models, and ML-driven applications, and creating structured learning guides for students and self-learners.
 
 ---
 
@@ -15,6 +15,21 @@ Currently working on projects involving **image processing**, **CNN-based models
 
 ---
 
+## 🧭 Guides & Learning Roadmaps
+
+I also create beginner-to-intermediate guides and roadmaps to help students
+and self-learners understand AI, Machine Learning, and Computer Vision
+through structured learning paths and real projects.
+
+- 📘 **AI / Machine Learning Roadmap**  
+  Beginner → Intermediate visual roadmap with Computer Vision focus  
+  👉 https://github.com/ares-coding/ai-ml-roadmap
+
+- 🖼 **OpenCV Face Preprocessing Guide**  
+  Practical preprocessing steps for ML & CV projects  
+  👉 https://github.com/ares-coding/opencv-face-preprocessing
+
+---
 🛠️ Tech Stack
 
 
