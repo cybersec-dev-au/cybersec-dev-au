@@ -1,6 +1,10 @@
 # Hi, I'm Ares👋
-Software Developer & AI Engineer with a strong focus on **Machine Learning**, **Computer Vision**, and **Web Development**.  
-I enjoy building practical systems that combine data, models, and clean user interfaces.
+Software Developer & AI Engineer with a strong focus on Machine Learning, 
+Computer Vision, and ML-based Security Systems.
+
+I enjoy building end-to-end ML pipelines — from data preprocessing and 
+feature engineering to model evaluation and real-time prediction.
+
 
 Currently working on projects involving image processing, CNN-based models, and ML-driven applications, and creating structured learning guides for students and self-learners.
 
@@ -11,6 +15,8 @@ Currently working on projects involving image processing, CNN-based models, and 
 - Computer Vision & Image Processing
 - Model Training & Evaluation (CNN, SVM, Hybrid CNN–SVM)
 - Web-based deployment of ML systems
+- ML-based Security Systems (SQL Injection Detection)
+
  
 
 ---
@@ -40,6 +46,7 @@ through structured learning paths and real projects.
 ![CSS3](https://img.shields.io/badge/CSS3-2C5AA0?style=flat&logo=css3&logoColor=white)
 
 
+
 ### 🤖 Machine Learning / Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-2E4057?style=flat&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-355C7D?style=flat&logo=numpy&logoColor=white)
@@ -47,6 +54,12 @@ through structured learning paths and real projects.
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-CF8E1B?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-CF6D17?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-B44A3A?style=flat&logo=pytorch&logoColor=white)
+
+### 🛡️ Security & Data
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat)
+![ML Security](https://img.shields.io/badge/ML--Based%20Security-9C27B0?style=flat)
+
 
 
 ### 🌐 Web & Deployment
