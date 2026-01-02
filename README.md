@@ -96,6 +96,10 @@ A machine learning–based system that classifies facial images as **drunk** or 
 `Python · OpenCV · CNN · SVM · Scikit-learn · TensorFlow · NumPy · Pandas`
 
 ---
+🛡️ ML-Based SQL Injection Attack Detection  
+• Feature-engineered SQL queries classified using SVM  
+• Includes preprocessing, evaluation, and real-time prediction
+
 
 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ares-coding&show_icons=true&theme=radical)
