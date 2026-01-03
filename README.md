@@ -103,7 +103,7 @@ A machine learning–based system that classifies facial images as **drunk** or 
 • Feature-engineered SQL queries classified using SVM  
 • Includes preprocessing, evaluation, and real-time prediction
 
-- 🛡️ Cybersecurity Roadmap (2026)  
+🛡️ Cybersecurity Roadmap (2026)  
   A curated learning path covering fundamentals, networking, red team, blue team, tools, and certifications.
 
 ---
