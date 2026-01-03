@@ -108,7 +108,7 @@ A machine learning–based system that classifies facial images as **drunk** or 
 
 ---
 
-📊 GitHub Stats
+
 ## 📊 GitHub Stats
 
 <p align="center">
