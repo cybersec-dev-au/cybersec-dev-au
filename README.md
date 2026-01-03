@@ -1,6 +1,6 @@
 # Hi, I'm Ares👋
-Software Developer & AI Engineer with a strong focus on Machine Learning, 
-Computer Vision, and ML-based Security Systems.
+Software Developer & AI Engineer with a strong focus on Machine Learning, Computer Vision, and Cybersecurity-related systems.
+
 
 I enjoy building end-to-end ML pipelines — from data preprocessing and 
 feature engineering to model evaluation and real-time prediction.
@@ -15,10 +15,9 @@ Currently working on projects involving image processing, CNN-based models, and 
 - Computer Vision & Image Processing
 - Model Training & Evaluation (CNN, SVM, Hybrid CNN–SVM)
 - Web-based deployment of ML systems
-- ML-based Security Systems (SQL Injection Detection)
+- ML-based Security Systems (SQL Injection Detection, Cybersecurity Foundations)
 
  
-
 ---
 
 ## 🧭 Guides & Learning Roadmaps
@@ -34,6 +33,10 @@ through structured learning paths and real projects.
 - 🖼 **OpenCV Face Preprocessing Guide**  
   Practical preprocessing steps for ML & CV projects  
   👉 https://github.com/ares-coding/opencv-face-preprocessing
+
+- 🛡️ Cybersecurity Roadmap (2026)  
+  Structured beginner-to-advanced cybersecurity roadmap with curated resources, tools, and hands-on labs.  
+  https://github.com/ares-coding/cybersecurity-roadmap-2026
 
 ---
 🛠️ Tech Stack
@@ -100,6 +103,10 @@ A machine learning–based system that classifies facial images as **drunk** or 
 • Feature-engineered SQL queries classified using SVM  
 • Includes preprocessing, evaluation, and real-time prediction
 
+- 🛡️ Cybersecurity Roadmap (2026)  
+  A curated learning path covering fundamentals, networking, red team, blue team, tools, and certifications.
+
+---
 
 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ares-coding&show_icons=true&theme=radical)
