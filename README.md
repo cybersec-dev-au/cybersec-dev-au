@@ -39,71 +39,45 @@ through structured learning paths and real projects.
   https://github.com/ares-coding/cybersecurity-roadmap-2026
 
 ---
-🛠️ Tech Stack
+## ⚙️ Tech Stack
 
+### 💻 Core Languages
+![Python](https://img.shields.io/badge/Python-00ff9c?style=for-the-badge&logo=python&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-00ff9c?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-00ff9c?style=for-the-badge&logo=html5&logoColor=000)
+![CSS3](https://img.shields.io/badge/CSS3-00ff9c?style=for-the-badge&logo=css3&logoColor=000)
 
-## 🧰 Tech Stack
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="58"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="58"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="58"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="58"/>
-</p>
+---
 
+### 🤖 Machine Learning & Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-00ff9c?style=for-the-badge&logo=opencv&logoColor=000)
+![NumPy](https://img.shields.io/badge/NumPy-00ff9c?style=for-the-badge&logo=numpy&logoColor=000)
+![Pandas](https://img.shields.io/badge/Pandas-00ff9c?style=for-the-badge&logo=pandas&logoColor=000)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-00ff9c?style=for-the-badge&logo=scikitlearn&logoColor=000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00ff9c?style=for-the-badge&logo=tensorflow&logoColor=000)
+![PyTorch](https://img.shields.io/badge/PyTorch-00ff9c?style=for-the-badge&logo=pytorch&logoColor=000)
 
+---
 
+### 🔐 Security & Data
+![MySQL](https://img.shields.io/badge/MySQL-00ff9c?style=for-the-badge&logo=mysql&logoColor=000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00ff9c?style=for-the-badge&logo=postgresql&logoColor=000)
 
-### 🤖 Machine Learning / Computer Vision
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="54"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="54"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="54"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="54"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="54"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="54"/>
-</p>
-
-
-### 🛡️ Security & Data
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52"/>
-</p>
-
-<p><strong>Data Analysis • ML-Based Security</strong></p>
-
-
-
+---
 
 ### 🌐 Web & Deployment
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="52"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="52"/>
-</p>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-00ff9c?style=for-the-badge&logo=bootstrap&logoColor=000)
+![Vercel](https://img.shields.io/badge/Vercel-00ff9c?style=for-the-badge&logo=vercel&logoColor=000)
 
+---
 
-### 🛠 Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="46"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="46"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="46"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="46"/>
-</p>
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-00ff9c?style=for-the-badge&logo=git&logoColor=000)
+![GitHub](https://img.shields.io/badge/GitHub-00ff9c?style=for-the-badge&logo=github&logoColor=000)
+![Docker](https://img.shields.io/badge/Docker-00ff9c?style=for-the-badge&logo=docker&logoColor=000)
+![Postman](https://img.shields.io/badge/Postman-00ff9c?style=for-the-badge&logo=postman&logoColor=000)
+![Figma](https://img.shields.io/badge/Figma-00ff9c?style=for-the-badge&logo=figma&logoColor=000)
+
 
 
 
