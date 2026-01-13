@@ -111,8 +111,6 @@ A machine learning–based system that classifies facial images as **drunk** or 
 
 
 
-## 📊 GitHub Stats
-
 ---
 
 ## 📊 GitHub Stats
@@ -122,6 +120,7 @@ A machine learning–based system that classifies facial images as **drunk** or 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ares-coding&theme=chartreuse-dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ares-coding&layout=compact&theme=chartreuse-dark&hide_border=true)
+
 
 
 ---
