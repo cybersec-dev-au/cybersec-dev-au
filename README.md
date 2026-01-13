@@ -113,9 +113,15 @@ A machine learning–based system that classifies facial images as **drunk** or 
 
 ## 📊 GitHub Stats
 
-![Ares's GitHub stats](https://github-readme-stats.vercel.app/api?username=ares-coding&show_icons=true&theme=tokyonight)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ares-coding&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ares-coding&show_icons=true&theme=chartreuse-dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ares-coding&theme=chartreuse-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ares-coding&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 
 ---
