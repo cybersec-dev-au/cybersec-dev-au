@@ -84,20 +84,24 @@ through structured learning paths and real projects.
 
 ---
 
-🚀 Featured Project
+## 🚀 Featured Projects & Live Demos
+
 
 🍺 Detecting Alcohol Intoxication Using Image Processing
-A machine learning–based system that classifies facial images as **drunk** or **normal**.
 
-**Highlights:**
-- Image preprocessing and facial feature extraction using OpenCV  
-- CNN model for deep feature learning  
-- SVM classifier for decision boundaries  
-- Hybrid **CNN–SVM** approach for improved accuracy  
-- Trained and evaluated using Python in Google Colab  
+An AI-based facial image analysis system that compares **CNN, SVM, and Hybrid CNN–SVM models** to classify **intoxicated vs normal** facial states.
 
-**Tech Used:**  
-`Python · OpenCV · CNN · SVM · Scikit-learn · TensorFlow · NumPy · Pandas`
+**Tech Stack:**  
+`Python` · `OpenCV` · `CNN` · `SVM` · `Gradio` · `Hugging Face Spaces`
+
+🔗 **Live Demo:**  
+👉 https://huggingface.co/spaces/ares-coding/alcohol-intoxication-demo
+
+💻 **Source Code:**  
+👉 https://github.com/ares-coding/detecting-alcohol-intoxication-using-image-processing
+
+> Deployed an interactive Gradio demo showcasing the end-to-end ML workflow: image input → inference → prediction visualization.
+
 
 ---
 🛡️ ML-Based SQL Injection Attack Detection  
