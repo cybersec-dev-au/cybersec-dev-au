@@ -136,10 +136,12 @@ An AI-based facial image analysis system that compares **CNN, SVM, and Hybrid CN
 
 ---
 
-## 📊 GitHub Stats
+##GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ares-coding&theme=chartreuse-dark&hide_border=true)
 
+---
 
+• Built an AI-based facial image analysis system achieving accurate intoxication classification using CNN, SVM, and hybrid models.
 
 
