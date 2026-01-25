@@ -26,14 +26,6 @@ I also create beginner-to-intermediate guides and roadmaps to help students
 and self-learners understand AI, Machine Learning, and Computer Vision
 through structured learning paths and real projects.
 
-- 📘 **AI / Machine Learning Roadmap**  
-  Beginner → Intermediate visual roadmap with Computer Vision focus  
-  👉 https://github.com/ares-coding/ai-ml-roadmap
-
-- 🖼 **OpenCV Face Preprocessing Guide**  
-  Practical preprocessing steps for ML & CV projects  
-  👉 https://github.com/ares-coding/opencv-face-preprocessing
-
 - 🛡️ Cybersecurity Roadmap (2026)  
   Structured beginner-to-advanced cybersecurity roadmap with curated resources, tools, and hands-on labs.  
   https://github.com/ares-coding/cybersecurity-roadmap-2026
