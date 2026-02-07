@@ -106,27 +106,56 @@ through structured learning paths and real projects.
 
 ## 🚀 Featured Projects & Live Demos
 
-
 🍺 Detecting Alcohol Intoxication Using Image Processing
 
-An AI-based facial image analysis system that compares **CNN, SVM, and Hybrid CNN–SVM models** to classify **intoxicated vs normal** facial states.
+An AI-based facial image analysis system that compares CNN, SVM, and a Hybrid CNN–SVM model to classify intoxicated vs. normal facial states using facial features.
 
-**Tech Stack:**  
-`Python` · `OpenCV` · `CNN` · `SVM` · `Gradio` · `Hugging Face Spaces`
+Tech Stack:
+Python · OpenCV · CNN · SVM · Hybrid CNN–SVM · Gradio · Hugging Face Spaces
 
-🔗 **Live Demo:**  
+Live Demo:
 👉 https://huggingface.co/spaces/ares-coding/alcohol-intoxication-demo
 
-💻 **Source Code:**  
+Source Code:
 👉 https://github.com/ares-coding/detecting-alcohol-intoxication-using-image-processing
 
-> Deployed an interactive Gradio demo showcasing the end-to-end ML workflow: image input → inference → prediction visualization.
+Deployed as an interactive Gradio demo showcasing the end-to-end ML workflow: image input → inference → prediction visualization.
 
+🔐 Malicious URL Detection System
 
----
-🛡️ ML-Based SQL Injection Attack Detection  
-• Feature-engineered SQL queries classified using SVM  
-• Includes preprocessing, evaluation, and real-time prediction
+A machine learning–based system designed to detect and classify malicious URLs by analyzing extracted URL features and patterns, helping prevent phishing and web-based attacks.
+
+Tech Stack:
+Python · Machine Learning · Scikit-learn · XGBoost · Feature Engineering · Streamlit
+
+Source Code:
+👉 https://github.com/ares-coding/malicious-url-detection-using-ml
+
+Includes a Streamlit-based interface demonstrating real-time URL analysis and classification.
+
+🛡️ SQL Injection Attack Detection
+
+A security-focused project demonstrating real-world SQL injection vulnerabilities and detection using pattern analysis. Highlights how improper query handling can bypass authentication and shows mitigation through secure query practices.
+
+Tech Stack:
+Python · MySQL · SQL · Pattern Analysis · Cybersecurity
+
+Source Code:
+👉 https://github.com/ares-coding/sql-injection-attack-detection
+
+Demonstrates both vulnerable and secured query implementations using real SQL queries.
+
+📩 Spam Message Detection App
+
+A machine learning–powered application that identifies spam messages using Natural Language Processing (NLP). Analyzes message content and classifies text as spam or legitimate in real time.
+
+Tech Stack:
+Python · NLP · Machine Learning · Scikit-learn · Text Classification
+
+Source Code:
+👉 https://github.com/ares-coding/spam-message-detection
+
+Focused on text preprocessing, feature extraction, and classification accuracy for message filtering.
 
 🛡️ Cybersecurity Roadmap (2026)  
   A curated learning path covering fundamentals, networking, red team, blue team, tools, and certifications.
