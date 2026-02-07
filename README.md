@@ -121,6 +121,7 @@ Source Code:
 
 Deployed as an interactive Gradio demo showcasing the end-to-end ML workflow: image input → inference → prediction visualization.
 
+---
 🔐 Malicious URL Detection System
 
 A machine learning–based system designed to detect and classify malicious URLs by analyzing extracted URL features and patterns, helping prevent phishing and web-based attacks.
@@ -133,6 +134,7 @@ Source Code:
 
 Includes a Streamlit-based interface demonstrating real-time URL analysis and classification.
 
+---
 🛡️ SQL Injection Attack Detection
 
 A security-focused project demonstrating real-world SQL injection vulnerabilities and detection using pattern analysis. Highlights how improper query handling can bypass authentication and shows mitigation through secure query practices.
@@ -145,6 +147,7 @@ Source Code:
 
 Demonstrates both vulnerable and secured query implementations using real SQL queries.
 
+---
 📩 Spam Message Detection App
 
 A machine learning–powered application that identifies spam messages using Natural Language Processing (NLP). Analyzes message content and classifies text as spam or legitimate in real time.
@@ -157,6 +160,7 @@ Source Code:
 
 Focused on text preprocessing, feature extraction, and classification accuracy for message filtering.
 
+---
 🛡️ Cybersecurity Roadmap (2026)  
   A curated learning path covering fundamentals, networking, red team, blue team, tools, and certifications.
 
@@ -170,6 +174,6 @@ Focused on text preprocessing, feature extraction, and classification accuracy f
 
 ---
 
-• Built an AI-based facial image analysis system achieving accurate intoxication classification using CNN, SVM, and hybrid models.
+
 
 
