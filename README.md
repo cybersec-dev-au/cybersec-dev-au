@@ -160,11 +160,6 @@ Source Code:
 
 Focused on text preprocessing, feature extraction, and classification accuracy for message filtering.
 
----
-🛡️ Cybersecurity Roadmap (2026)  
-  A curated learning path covering fundamentals, networking, red team, blue team, tools, and certifications.
-
----
 
 ---
 
