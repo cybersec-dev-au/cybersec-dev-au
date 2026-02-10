@@ -1,5 +1,5 @@
 # Hi, I'm Ares👋
-Software Developer & AI Engineer with a strong focus on Machine Learning, Computer Vision, and Cybersecurity-related systems.
+Full Stack Software Developer & AI Engineer with a strong focus on Machine Learning, Computer Vision, and Cybersecurity-related systems.
 
 
 I enjoy building end-to-end ML pipelines — from data preprocessing and 
