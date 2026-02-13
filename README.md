@@ -125,7 +125,6 @@ A structured learning path featuring:
 
 **AI-based facial analysis comparing CNN, SVM, and Hybrid models**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face-FF9D00?style=for-the-badge)](https://huggingface.co/spaces/ares-coding/alcohol-intoxication-demo)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ares-coding/detecting-alcohol-intoxication-using-image-processing)
 
 `Python` `OpenCV` `CNN` `SVM` `Gradio` `Hugging Face`
