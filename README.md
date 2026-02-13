@@ -1,174 +1,201 @@
-# Hi, I'm Ares👋
-Full Stack Software Developer & Junior AI/ML Engineer with a strong focus on Machine Learning, Computer Vision, and Cybersecurity-related systems.
+<div align="center">
 
+# 👋 Hi, I'm Ares
 
-I enjoy building end-to-end ML pipelines — from data preprocessing and 
-feature engineering to model evaluation and real-time prediction.
+### Full Stack Software Developer & Junior AI/ML Engineer
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Machine+Learning+%26+Computer+Vision;Cybersecurity+Systems;Building+AI-Powered+Solutions)](https://git.io/typing-svg)
 
-Currently working on projects involving image processing, CNN-based models, and ML-driven applications, and creating structured learning guides for students and self-learners.
+</div>
 
 ---
 
-## 🧠 Core Expertise
-- Machine Learning & Deep Learning
+## 🚀 About Me
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Au Amores"
+        self.role = "Full Stack Developer & AI/ML Engineer"
+        self.focus = ["Machine Learning", "Computer Vision", "Cybersecurity"]
+        self.currently_working_on = [
+            "CNN-based Image Processing",
+            "ML-driven Security Systems",
+            "Real-time Prediction Pipelines",
+            "Learning Guides & Roadmaps"
+        ]
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together 🚀")
+
+me = Developer()
+me.say_hi()
+```
+
+💡 **What I Do:**
+- 🧠 Build end-to-end ML pipelines from data preprocessing to deployment
+- 🔐 Develop ML-based security systems and cybersecurity tools
+- 📚 Create structured learning guides for AI/ML enthusiasts
+- 🎯 Transform complex problems into elegant, AI-powered solutions
+
+---
+
+## 🎯 Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Machine Learning
+- Deep Learning (CNN, SVM, Hybrid Models)
 - Computer Vision & Image Processing
-- Model Training & Evaluation (CNN, SVM, Hybrid CNN–SVM)
-- Web-based deployment of ML systems
-- ML-based Security Systems (SQL Injection Detection, Cybersecurity Foundations)
+- Model Training, Evaluation & Optimization
+- Real-time Prediction Systems
+- Feature Engineering & Data Preprocessing
 
- 
+</td>
+<td width="50%">
+
+### 🔐 Security & Development
+- ML-based Security Systems
+- SQL Injection Detection
+- Cybersecurity Foundations
+- Full Stack Web Development
+- Web-based ML Deployment
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🧭 Guides & Learning Roadmaps
+## 📚 Learning Resources I've Created
 
-I also create beginner-to-intermediate guides and roadmaps to help students
-and self-learners understand AI, Machine Learning, and Computer Vision
-through structured learning paths and real projects.
+### 🛡️ [Cybersecurity Roadmap 2026](https://github.com/ares-coding/cybersecurity-roadmap-2026)
+> *Comprehensive beginner-to-advanced cybersecurity guide*
 
-- 🛡️ Cybersecurity Roadmap (2026)  
-  Structured beginner-to-advanced cybersecurity roadmap with curated resources, tools, and hands-on labs.  
-  https://github.com/ares-coding/cybersecurity-roadmap-2026
+A structured learning path featuring:
+- 📖 Curated resources and tools
+- 🔧 Hands-on labs and projects
+- 🎯 Clear progression from basics to advanced topics
+- 💼 Industry-relevant skills and certifications
 
 ---
-## ⚙️ Tech Stack
 
-### 💻 Core Languages
+## 🛠️ Tech Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
----
-
-### 🌐 Web & Backend Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-### 🤖 Machine Learning & AI
+### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-### 📊 Data Science & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
----
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🔐 Databases & Security
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🌐 Deployment & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
----
-
-### 🛠️ Developer Tools & Design
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-
 
 ---
 
-## 🚀 Featured Projects & Live Demos
+## 🌟 Featured Projects
 
-🍺 Detecting Alcohol Intoxication Using Image Processing
+<div align="center">
 
-An AI-based facial image analysis system that compares CNN, SVM, and a Hybrid CNN–SVM model to classify intoxicated vs. normal facial states using facial features.
+### 🍺 [Alcohol Intoxication Detection](https://github.com/ares-coding/detecting-alcohol-intoxication-using-image-processing)
 
-Tech Stack:
-Python · OpenCV · CNN · SVM · Hybrid CNN–SVM · Gradio · Hugging Face Spaces
+**AI-based facial analysis comparing CNN, SVM, and Hybrid models**
 
-Live Demo:
-👉 https://huggingface.co/spaces/ares-coding/alcohol-intoxication-demo
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face-FF9D00?style=for-the-badge)](https://huggingface.co/spaces/ares-coding/alcohol-intoxication-demo)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ares-coding/detecting-alcohol-intoxication-using-image-processing)
 
-Source Code:
-👉 https://github.com/ares-coding/detecting-alcohol-intoxication-using-image-processing
-
-Deployed as an interactive Gradio demo showcasing the end-to-end ML workflow: image input → inference → prediction visualization.
-
----
-🔐 Malicious URL Detection System
-
-A machine learning–based system designed to detect and classify malicious URLs by analyzing extracted URL features and patterns, helping prevent phishing and web-based attacks.
-
-Tech Stack:
-Python · Machine Learning · Scikit-learn · XGBoost · Feature Engineering · Streamlit
-
-Source Code:
-👉 https://github.com/ares-coding/malicious-url-detection-using-ml
-
-Includes a Streamlit-based interface demonstrating real-time URL analysis and classification.
-
----
-🛡️ SQL Injection Attack Detection
-
-A security-focused project demonstrating real-world SQL injection vulnerabilities and detection using pattern analysis. Highlights how improper query handling can bypass authentication and shows mitigation through secure query practices.
-
-Tech Stack:
-Python · MySQL · SQL · Pattern Analysis · Cybersecurity
-
-Source Code:
-👉 https://github.com/ares-coding/sql-injection-attack-detection
-
-Demonstrates both vulnerable and secured query implementations using real SQL queries.
-
----
-📩 Spam Message Detection App
-
-A machine learning–powered application that identifies spam messages using Natural Language Processing (NLP). Analyzes message content and classifies text as spam or legitimate in real time.
-
-Tech Stack:
-Python · NLP · Machine Learning · Scikit-learn · Text Classification
-
-Source Code:
-👉 https://github.com/ares-coding/spam-message-detection
-
-Focused on text preprocessing, feature extraction, and classification accuracy for message filtering.
-
+`Python` `OpenCV` `CNN` `SVM` `Gradio` `Hugging Face`
 
 ---
 
-##GitHub Stats
+### 🔐 [Malicious URL Detection](https://github.com/ares-coding/malicious-url-detection-using-ml)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ares-coding&theme=chartreuse-dark&hide_border=true)
+**ML-powered system for detecting phishing and malicious URLs**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ares-coding/malicious-url-detection-using-ml)
+
+`Python` `Machine Learning` `XGBoost` `Feature Engineering` `Streamlit`
 
 ---
 
+### 🛡️ [SQL Injection Detection](https://github.com/ares-coding/sql-injection-attack-detection)
 
+**Security-focused project demonstrating SQL injection vulnerabilities and detection**
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ares-coding/sql-injection-attack-detection)
 
+`Python` `MySQL` `SQL` `Pattern Analysis` `Cybersecurity`
+
+---
+
+### 📩 [Spam Message Detection](https://github.com/ares-coding/spam-message-detection)
+
+**NLP-powered spam classifier with real-time text analysis**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ares-coding/spam-message-detection)
+
+`Python` `NLP` `Scikit-learn` `Text Classification`
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ares-coding&theme=chartreuse-dark&hide_border=true&border_radius=10)
+
+<img src="https://github-readme-stats.vercel.app/api?username=ares-coding&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ares-coding&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=10" width="49%" />
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/au-amores/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ares-coding)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:auamores3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+
+### 💡 Open to freelance projects and collaborations!
+
+</div>
+
+---
+
+<div align="center">
+
+**"Building the future, one algorithm at a time."** 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=ares-coding&color=22c55e&style=for-the-badge)
+
+</div>
