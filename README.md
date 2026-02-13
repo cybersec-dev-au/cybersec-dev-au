@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ares
 
-### Full Stack Software Developer & Junior AI/ML Engineer
+Junior AI/ML Engineer | Software Developer | Computer Vision & ML-Driven Security
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Machine+Learning+%26+Computer+Vision;Cybersecurity+Systems;Building+AI-Powered+Solutions)](https://git.io/typing-svg)
 
@@ -15,8 +15,8 @@
 class Developer:
     def __init__(self):
         self.name = "Au Amores"
-        self.role = "Full Stack Developer & AI/ML Engineer"
-        self.focus = ["Machine Learning", "Computer Vision", "Cybersecurity"]
+        self.role = "Junior AI/ML Engineer | Software Developer"
+        self.focus = ["Computer Vision & ML-Driven Security"]
         self.currently_working_on = [
             "CNN-based Image Processing",
             "ML-driven Security Systems",
