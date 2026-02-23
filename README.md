@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ares
+# 👋 Hi, I'm Au
 
 Junior AI/ML Engineer | Software Developer | Computer Vision & ML-Driven Security
 
