@@ -223,7 +223,7 @@ A structured learning path featuring:
 
 ---
 
-## `> git log --stats`
+### `> git log --stats`
 
 <div align="center">
 
