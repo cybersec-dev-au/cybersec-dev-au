@@ -31,7 +31,7 @@ me = Developer()
 me.say_hi()
 ```
 
-💡 **What I Do:**
+ **What I Do:**
 -  Build end-to-end ML pipelines from data preprocessing to deployment
 -  Develop ML-based security systems and cybersecurity tools
 -  Create structured learning guides for AI/ML enthusiasts
