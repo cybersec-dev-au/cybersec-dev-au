@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Au
+#  Hi, I'm Au
 
 Junior AI/ML Engineer | Software Developer | Computer Vision & ML-Driven Security
 
@@ -10,7 +10,7 @@ Junior AI/ML Engineer | Software Developer | Computer Vision & ML-Driven Securit
 
 ---
 
-## 🚀 About Me
+##  About Me
 ```python
 class Developer:
     def __init__(self):
@@ -32,20 +32,20 @@ me.say_hi()
 ```
 
 💡 **What I Do:**
-- 🧠 Build end-to-end ML pipelines from data preprocessing to deployment
-- 🔐 Develop ML-based security systems and cybersecurity tools
-- 📚 Create structured learning guides for AI/ML enthusiasts
-- 🎯 Transform complex problems into elegant, AI-powered solutions
+-  Build end-to-end ML pipelines from data preprocessing to deployment
+-  Develop ML-based security systems and cybersecurity tools
+-  Create structured learning guides for AI/ML enthusiasts
+-  Transform complex problems into elegant, AI-powered solutions
 
 ---
 
-## 🎯 Core Expertise
+##  Core Expertise
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI & Machine Learning
+###  AI & Machine Learning
 - Deep Learning (CNN, SVM, Hybrid Models)
 - Computer Vision & Image Processing
 - Model Training, Evaluation & Optimization
@@ -55,7 +55,7 @@ me.say_hi()
 </td>
 <td width="50%">
 
-### 🔐 Security & Development
+###  Security & Development
 - ML-based Security Systems
 - SQL Injection Detection
 - Cybersecurity Foundations
@@ -68,25 +68,25 @@ me.say_hi()
 
 ---
 
-## 📚 Learning Resources I've Created
+## Learning Resources I've Created
 
-### 🛡️ [Cybersecurity Roadmap 2026](https://github.com/ares-coding/cybersecurity-roadmap-2026)
+###  [Cybersecurity Roadmap 2026](https://github.com/ares-coding/cybersecurity-roadmap-2026)
 > *Comprehensive beginner-to-advanced cybersecurity guide*
 
 A structured learning path featuring:
-- 📖 Curated resources and tools
-- 🔧 Hands-on labs and projects
-- 🎯 Clear progression from basics to advanced topics
-- 💼 Industry-relevant skills and certifications
+-  Curated resources and tools
+-  Hands-on labs and projects
+-  Clear progression from basics to advanced topics
+-  Industry-relevant skills and certifications
 
 ---
 
-## ⚡ Tech Arsenal
+##  Tech Arsenal
 > Tools & frameworks I use to build intelligent systems
 
 ---
 
-### 🤖 Machine Learning & AI
+###  Machine Learning & AI
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -112,7 +112,7 @@ A structured learning path featuring:
 
 ---
 
-### 💻 Languages & Frameworks
+###  Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
@@ -133,7 +133,7 @@ A structured learning path featuring:
 
 ---
 
-### 🛠️ Developer Tools
+###  Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -153,11 +153,11 @@ A structured learning path featuring:
 *// always learning · always building*
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-### 🍺 [Alcohol Intoxication Detection](https://github.com/ares-coding/detecting-alcohol-intoxication-using-image-processing)
+###  [Alcohol Intoxication Detection](https://github.com/ares-coding/detecting-alcohol-intoxication-using-image-processing)
 
 **AI-based facial analysis comparing CNN, SVM, and Hybrid models**
 
@@ -167,7 +167,7 @@ A structured learning path featuring:
 
 ---
 
-### 🔐 [Malicious URL Detection](https://github.com/ares-coding/malicious-url-detection-using-ml)
+###  [Malicious URL Detection](https://github.com/ares-coding/malicious-url-detection-using-ml)
 
 **ML-powered system for detecting phishing and malicious URLs**
 
@@ -177,7 +177,7 @@ A structured learning path featuring:
 
 ---
 
-### 🛡️ [SQL Injection Detection](https://github.com/ares-coding/sql-injection-attack-detection)
+###  [SQL Injection Detection](https://github.com/ares-coding/sql-injection-attack-detection)
 
 **Security-focused project demonstrating SQL injection vulnerabilities and detection**
 
@@ -187,7 +187,7 @@ A structured learning path featuring:
 
 ---
 
-### 📩 [Spam Message Detection](https://github.com/ares-coding/spam-message-detection)
+###  [Spam Message Detection](https://github.com/ares-coding/spam-message-detection)
 
 **NLP-powered spam classifier with real-time text analysis**
 
@@ -199,7 +199,7 @@ A structured learning path featuring:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -212,7 +212,7 @@ A structured learning path featuring:
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -221,7 +221,7 @@ A structured learning path featuring:
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:auamores3@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://au-ai-engineer.vercel.app)
 
-### 💡 Open to freelance projects and collaborations!
+###  Open to freelance projects and collaborations!
 
 </div>
 
